@@ -1,0 +1,251 @@
+--2018-10-18 12:14:49--  http://(windows/
+Resolving (windows ((windows)... failed: 不知道这样的主机。 .
+wget: unable to resolve host address '(windows'
+--2018-10-18 12:14:50--  http://nt/
+Resolving nt (nt)... failed: 不知道这样的主机。 .
+wget: unable to resolve host address 'nt'
+--2018-10-18 12:14:52--  http://10.0;/
+Resolving 10.0; (10.0;)... failed: 不知道这样的主机。 .
+wget: unable to resolve host address '10.0;'
+--2018-10-18 12:14:52--  http://wow64;/
+Resolving wow64; (wow64;)... failed: 不知道这样的主机。 .
+wget: unable to resolve host address 'wow64;'
+--2018-10-18 12:14:52--  ftp://rv/62.0)
+           => 'rv/.listing'
+Resolving rv (rv)... failed: 不知道这样的主机。 .
+wget: unable to resolve host address 'rv'
+--2018-10-18 12:14:54--  http://gecko/20100101
+Resolving gecko (gecko)... failed: 不知道这样的主机。 .
+wget: unable to resolve host address 'gecko'
+--2018-10-18 12:14:56--  http://firefox/62.0
+Resolving firefox (firefox)... failed: 不知道这样的主机。 .
+wget: unable to resolve host address 'firefox'
+--2018-10-18 12:14:59--  https://github.com/
+Resolving github.com (github.com)... 192.30.253.112, 192.30.253.113
+Connecting to github.com (github.com)|192.30.253.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/index.html'
+
+     0K .......... .......... .......... .......... .......... 76.2K
+    50K .......... ....                                        1.25M=0.7s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:00 (96.1 KB/s) - 'github.com/index.html' saved [65637]
+
+--2018-10-18 12:15:00--  https://github.com/opensearch.xml
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 550 [text/xml]
+Saving to: 'github.com/opensearch.xml'
+
+     0K                                                       100% 1.24M=0s
+
+2018-10-18 12:15:01 (1.24 MB/s) - 'github.com/opensearch.xml' saved [550/550]
+
+--2018-10-18 12:15:01--  https://github.com/fluidicon.png
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 33270 (32K) [image/png]
+Saving to: 'github.com/fluidicon.png'
+
+     0K .......... .......... .......... ..                   100%  638K=0.05s
+
+2018-10-18 12:15:01 (638 KB/s) - 'github.com/fluidicon.png' saved [33270/33270]
+
+--2018-10-18 12:15:01--  https://github.com/manifest.json
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/manifest+json]
+Saving to: 'github.com/manifest.json'
+
+     0K                                                         962K=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:02 (962 KB/s) - 'github.com/manifest.json' saved [794]
+
+--2018-10-18 12:15:02--  https://github.com/features
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/features.html'
+
+     0K .......... .......... .......... .......... .......... 2.85M
+    50K .......... .......... .                                83.2K=0.3s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:02 (258 KB/s) - 'github.com/features.html' saved [73443]
+
+--2018-10-18 12:15:02--  https://github.com/business
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/business.html'
+
+     0K .......... .......... .......... .......... .......... 4.05M
+    50K ...                                                    1.53M=0.01s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:03 (3.70 MB/s) - 'github.com/business.html' saved [54298]
+
+--2018-10-18 12:15:03--  https://github.com/explore
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/explore.html'
+
+     0K .......... .......... .......... .......... .......... 1.77M
+    50K .......... .......... .......... .......... ..........  195K
+   100K .......... .......... .......... .......... ..........  182K
+   150K .......... .......... .......... .......... ..........  185K
+   200K .......... .......... .......... .......... .........  3.02M=0.8s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:05 (295 KB/s) - 'github.com/explore.html' saved [255476]
+
+--2018-10-18 12:15:05--  https://github.com/marketplace
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/marketplace.html'
+
+     0K .......... .......... .......... .......... ..........  344K
+    50K .......... ..........                                  1.55M=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:05 (445 KB/s) - 'github.com/marketplace.html' saved [71943]
+
+--2018-10-18 12:15:05--  https://github.com/pricing
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/pricing.html'
+
+     0K .......... .......... .......... .......... .......... 2.26M
+    50K ....                                                   4.33M=0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:06 (2.36 MB/s) - 'github.com/pricing.html' saved [56206]
+
+--2018-10-18 12:15:06--  https://github.com/login
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/login.html'
+
+     0K .......... ...                                         1.29M=0.01s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:06 (1.29 MB/s) - 'github.com/login.html' saved [13935]
+
+--2018-10-18 12:15:06--  https://github.com/join?source=header-home
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/join@source=header-home.html'
+
+     0K .......... .......... .......... ........              4.65M=0.008s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:07 (4.65 MB/s) - 'github.com/join@source=header-home.html' saved [39924]
+
+--2018-10-18 12:15:07--  https://github.com/open-source
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/open-source.html'
+
+     0K .......... .......... .......... .......... .......... 3.12M
+    50K ...                                                    4.18M=0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:07 (3.18 MB/s) - 'github.com/open-source.html' saved [54975]
+
+--2018-10-18 12:15:07--  https://github.com/join?source=button-home
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/join@source=button-home.html'
+
+     0K .......... .......... .......... ........              1.72M=0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:08 (1.72 MB/s) - 'github.com/join@source=button-home.html' saved [39836]
+
+--2018-10-18 12:15:08--  https://github.com/pricing/enterprise
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/pricing/enterprise.html'
+
+     0K .......... .......... .......... .......... .......... 1.74M
+    50K                                                         242K=0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:08 (1.71 MB/s) - 'github.com/pricing/enterprise.html' saved [51348]
+
+--2018-10-18 12:15:08--  https://github.com/join?plan=business&setup_organization=true&source=business-page
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/join@plan=business&setup_organization=true&source=business-page.html'
+
+     0K .......... .......... .......... .........             2.20M=0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:09 (2.20 MB/s) - 'github.com/join@plan=business&setup_organization=true&source=business-page.html' saved [40417]
+
+--2018-10-18 12:15:09--  https://github.com/features/code-review
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/features/code-review.html'
+
+     0K .......... .......... .......... .......... .......... 2.78M
+    50K .........                                              7.15M=0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:09 (3.07 MB/s) - 'github.com/features/code-review.html' saved [60466]
+
+--2018-10-18 12:15:09--  https://github.com/features/project-management
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/features/project-management.html'
+
+     0K .......... .......... .......... .......... ..........  645K
+    50K .......                                                5.64M=0.08s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:09 (733 KB/s) - 'github.com/features/project-management.html' saved [59228]
+
+--2018-10-18 12:15:09--  https://github.com/features/integrations
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/features/integrations.html'
+
+     0K .......... .......... .......... .......... .......... 3.74M
+    50K                                                        2.47G=0.01s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:10 (3.78 MB/s) - 'github.com/features/integrations.html' saved [51723]
+
+--2018-10-18 12:15:10--  https://github.com/open-source/stories/ariya
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/open-source/stories/ariya.html'
+
+     0K .......... .......... .......... .......... ..         1.70M=0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2018-10-18 12:15:10 (1.70 MB/s) - 'github.com/open-source/stories/ariya.html' saved [43890]
+
+--2018-10-18 12:15:10--  https://github.com/open-source/stories/freakboy3742
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'github.com/open-source/stories/freakboy3742.html'
+
+     0K .......... .......... .......... .......... ........

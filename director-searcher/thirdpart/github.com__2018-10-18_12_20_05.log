@@ -1,0 +1,15 @@
+--2018-10-18 12:20:05--  http://(windows/
+Resolving (windows ((windows)... failed: 不知道这样的主机。 .
+wget: unable to resolve host address '(windows'
+--2018-10-18 12:20:05--  http://nt/
+Resolving nt (nt)... failed: 不知道这样的主机。 .
+wget: unable to resolve host address 'nt'
+--2018-10-18 12:20:07--  http://10.0;/
+Resolving 10.0; (10.0;)... failed: 不知道这样的主机。 .
+wget: unable to resolve host address '10.0;'
+--2018-10-18 12:20:07--  http://wow64;/
+Resolving wow64; (wow64;)... failed: 不知道这样的主机。 .
+wget: unable to resolve host address 'wow64;'
+--2018-10-18 12:20:07--  ftp://rv/62.0)
+           => 'rv/.listing'
+Resolving rv (rv)... 
